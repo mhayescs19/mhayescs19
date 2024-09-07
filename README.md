@@ -1,4 +1,4 @@
-## 👋 Hi I'm Michael!
+## 👋 Hi, I'm Michael!
 I'm an SDSU computer science student and I enjoy working in Java SpringBoot and Swift. I'm currently dabbling with Identity Providers, JWT, Java JPA and AWS. I love using GitHub project boards and issue templates to track development. I am leveraging these technologies for my current project in development, Parchment Recipes, which is a great way to scan, save, organize, and search for recipes.
 
 ## 💻 Languages, Technologies and Frameworks
