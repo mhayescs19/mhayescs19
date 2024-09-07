@@ -2,7 +2,7 @@
 I'm an SDSU computer science student and I enjoy working in Java SpringBoot and Swift. I'm currently dabbling with Identity Providers, JWT, Java JPA and AWS. I love using GitHub project boards and issue templates to track development. I am leveraging these technologies for my current project in development, Parchment Recipes, which is a great way to scan, save, organize, and search for recipes.
 
 ## 💻 Languages, Technologies and Frameworks
-Java, SpringBoot, Swift, MySQL, scrum methodology
+Java, SpringBoot, Swift, MySQL and scrum methodology
 
 ## 📜 Certifications
 * [AWS Certified Cloud Practitioner (July 2024)](https://www.credly.com/badges/9fc5f947-b622-406c-9f00-afb2f9f8dd1d/public_url)
