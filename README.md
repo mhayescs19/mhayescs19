@@ -2,6 +2,8 @@
 I'm an SDSU computer science student and I enjoy working across the web stack!
 
 Right now, I am building the future of the entrepreneurship experience at SDSU using Letta! -> [golaunchmate.com](https://golaunchmate.com)
+
+At the ZIP Launchpad, I've shipped features weekly for two years supporting startup founders and building Launchmate, the incubator's AI coordination platform used by over 140 founders and advisers.
 ## 📫 Let's Connect
 Reach out on [LinkedIn](https://www.linkedin.com/in/michael-hayes-cs/)! I'd love to hear from you!
 
